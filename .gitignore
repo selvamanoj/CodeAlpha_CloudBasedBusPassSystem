@@ -1,0 +1,1 @@
+.venv/\nvenv/\n__pycache__/\n*.py[cod]\n.pytest_cache/\n.env\nbus_pass.db\n
