@@ -22,5 +22,3 @@ The main objective of this project is to simplify the bus pass application proce
 ## Internship
 This project was developed as part of the CodeAlpha Cloud Computing Internship.
 
-## Author
-selvamanoj
